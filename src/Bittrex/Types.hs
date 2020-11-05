@@ -137,7 +137,7 @@ instance FromJSON MarketName where
 
 data MarketName'
   = BTC_LTC
-  | BTC
+  | EUR_BTC
   | BTC_DOGE
   | BTC_VTC
   | BTC_PPC
